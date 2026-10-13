@@ -377,3 +377,17 @@ nav {
         padding: 70px 7%;
     }
 }
+
+.site-footer {
+    padding: 28px 10%;
+    background-color: #101116;
+    border-top: 1px solid #343442;
+    color: #b8bac7;
+    text-align: center;
+    font-size: 13px;
+    line-height: 1.8;
+}
+
+.site-footer p {
+    margin: 6px 0;
+}
