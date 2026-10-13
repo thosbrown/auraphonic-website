@@ -20,6 +20,9 @@ header {
     padding: 24px 6%;
     border-bottom: 1px solid #292a35;
     background-color: #111318;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
 nav {
